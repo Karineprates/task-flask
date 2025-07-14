@@ -1,4 +1,4 @@
-# 🐍 Task Flask
+# 🐍 Task Flask CRUD
 
 Este repositório foi criado durante o curso de **Python** na Rocketseat, com o objetivo de aprender os fundamentos do framework **Flask**.
 
@@ -16,5 +16,4 @@ Durante o desenvolvimento do projeto, foi possível aprender a:
 
 - Python 3.x
 - Flask
-- HTML / CSS (templates)
 
